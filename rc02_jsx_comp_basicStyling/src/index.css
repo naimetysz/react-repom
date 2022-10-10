@@ -10,13 +10,13 @@ body {
 
 header {
   text-align: center;
-  background-color: grey;
-  padding: 2rem;
+  background-color: rgb(119, 189, 54);
+  padding: 1.9rem;
 }
 
 footer {
-  color: white;
-  background-color: black;
+  color: rgb(201, 65, 65);
+  background-color: rgb(227, 161, 224);
   text-align: center;
   padding: 2rem;
 }

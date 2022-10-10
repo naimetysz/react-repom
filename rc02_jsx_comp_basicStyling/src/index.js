@@ -10,4 +10,4 @@ import "./index.css";
 
 //* render() metodu içerisinde App componenti cagrilir.
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+root.render(<App />); // doma giris noktamiz 
